@@ -1,0 +1,13 @@
+id,first_name,last_name,email,department,job_title,salary,hire_date,status
+1,James,Anderson,james.anderson@example.com,Engineering,Software Engineer,95000,2019-03-15,Active
+2,Priya,Sharma,priya.sharma@example.com,Engineering,Senior Software Engineer,120000,2017-07-22,Active
+3,Michael,Chen,michael.chen@example.com,Product,Product Manager,110000,2018-11-01,Active
+4,Sarah,Johnson,sarah.johnson@example.com,Design,UX Designer,88000,2020-01-10,Active
+5,Rahul,Gupta,rahul.gupta@example.com,Engineering,DevOps Engineer,105000,2019-06-30,Active
+6,Emily,Davis,emily.davis@example.com,HR,HR Manager,92000,2016-04-18,Active
+7,Carlos,Martinez,carlos.martinez@example.com,Sales,Sales Executive,75000,2021-02-28,Active
+8,Aisha,Patel,aisha.patel@example.com,Finance,Financial Analyst,87000,2020-09-14,Active
+9,David,Lee,david.lee@example.com,Marketing,Marketing Specialist,78000,2022-05-03,Active
+10,Linda,Wilson,linda.wilson@example.com,Engineering,QA Engineer,82000,2018-08-25,Inactive
+11,Omar,Khan,omar.khan@example.com,Design,Graphic Designer,72000,2021-11-17,Active
+12,Natasha,Brown,natasha.brown@example.com,Product,Associate Product Manager,90000,2023-01-09,Active

@@ -1,0 +1,9 @@
+# Day 1 - Power BI Basics
+
+## Topics Learned
+- Download Power BI
+- Introduction to Power BI
+- Tables in Power BI
+- Enter Data
+- Read CSV File
+- Read Excel File
